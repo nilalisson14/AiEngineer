@@ -10,4 +10,4 @@ Applied AI Engineer com base em Engenharia de Requisitos (9+ anos). Projetos rea
 
 👉 Choose your language above / Escolha o idioma acima.
 
-🌐 [nilalisson.com.br](https://nilalisson.com.br) · 💼 [linkedin.com/in/po-alisson](https://linkedin.com/in/po-alisson)
+🌐 [nilalisson.com.br/ai](https://nilalisson.com.br/ai) · 💼 [linkedin.com/in/nil-aiengineer](https://linkedin.com/in/nil-aiengineer)
