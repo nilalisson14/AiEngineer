@@ -1,6 +1,6 @@
 # Portfólio de Applied AI Engineering · Nil Alisson
 
-> 🇧🇷 Português · [🇺🇸 English version](https://github.com/nilalisson14/AIEngineer/blob/main/README.en.md)
+> 🇧🇷 Português · [🇺🇸 English version](https://github.com/nilalisson14/AiEngineer/blob/main/README.en.md)
 
 **Applied AI Engineer** com base em Engenharia de Requisitos — mais de 9 anos na interseção entre negócio, tecnologia e produtos digitais, hoje aplicados à construção de sistemas de IA em domínios regulados. Projeto, desenvolvo e avalio agentes de IA (RAG, LangChain/LangGraph, MCP), com foco em auditabilidade, conformidade e mensuração objetiva de qualidade — não em prova de conceito descartável.
 
@@ -39,10 +39,11 @@ Mensuração objetiva de qualidade — o que diferencia um agente demo de um age
 - **A mesma disciplina aplicada a IA:** prompt engineering tratado como engenharia de requisitos — especificação de comportamento esperado, critérios de aceite para respostas de agente, e rastreabilidade entre regra de negócio, prompt e output do modelo. É essa disciplina, não o framework de IA em si, que sustenta auditabilidade em produção
 - Ver [portfólio completo de Engenharia de Requisitos](https://github.com/nilalisson14/BusinessAnalyst) para os cases institucionais detalhados, com contexto, escopo e resultado de cada um
 
-### 🔹 [04 · Engenharia de Requisitos + GenAI em AWS](https://github.com/nilalisson14/case-ba-re-aws-genai)
-Case de Engenharia de Requisitos aplicado a arquitetura serverless de IA na AWS.
+### 🔹 [04 · Estudos de caso: RE + IA de ponta a ponta na AWS](https://github.com/nilalisson14/case-ba-re-aws-genai)
+Série de estudos de caso documentando a evolução de um sistema de IA regulatório, capítulo a capítulo — da elicitação de requisitos à arquitetura de agente.
 
-- **[case-ba-re-aws-genai](https://github.com/nilalisson14/case-ba-re-aws-genai)** — requisitos e especificação de solução GenAI sobre stack AWS (Bedrock, Lambda), conectando elicitação de requisitos a arquitetura serverless de IA
+- **[case-ba-re-aws-genai](https://github.com/nilalisson14/case-ba-re-aws-genai)** *(Capítulo 1)* — RAG regulatório na AWS (Bedrock + S3 Vectors, Titan Embeddings V2) para análise documental em ambiente regulado, com rastreabilidade completa de requisito a resposta
+- **[case-ai-agent-mcp-guardrails](https://github.com/nilalisson14/case-ai-agent-mcp-guardrails)** *(Capítulo 2 — planejado, execução ainda não iniciada)* — evolução direta de uma lacuna documentada no Capítulo 1: um Bedrock Agent que verifica conformidade regulatória com ferramentas determinísticas (action groups), recusa decisões regulatórias por guardrail configurado (não só instrução de prompt), exposto via MCP
 
 ### 🔹 [Produto próprio: SaaS de Agentes de IA](https://github.com/nilalisson14/Professional-AI-Framework)
 - **Professional AI Framework** — plataforma para criação de agentes de IA com landing pages (FastAPI, PostgreSQL, ChromaDB, Nginx, VPS Oracle Cloud)

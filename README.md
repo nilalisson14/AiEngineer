@@ -1,6 +1,6 @@
 # Applied AI Engineering Portfolio · Nil Alisson
 
-**BR** [Português](https://github.com/nilalisson14/AIEngineer/blob/main/README.pt.md) · **US** [English](https://github.com/nilalisson14/AIEngineer/blob/main/README.en.md)
+**BR** [Português](https://github.com/nilalisson14/AiEngineer/blob/main/README.pt.md) · **US** [English](https://github.com/nilalisson14/AiEngineer/blob/main/README.en.md)
 
 ---
 
@@ -10,4 +10,4 @@ Applied AI Engineer com base em Engenharia de Requisitos (9+ anos). Projetos rea
 
 👉 Choose your language above / Escolha o idioma acima.
 
-🌐 [nilalisson.com.br/ai](https://nilalisson.com.br/ai) · 💼 [linkedin.com/in/po-alisson](https://linkedin.com/in/nil-aiengineer)
+🌐 [nilalisson.com.br](https://nilalisson.com.br) · 💼 [linkedin.com/in/po-alisson](https://linkedin.com/in/po-alisson)
